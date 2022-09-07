@@ -1,4 +1,4 @@
-### Caio Pereira
+###
 
  <div>
   <a href="https://github.com/caaiopereira">

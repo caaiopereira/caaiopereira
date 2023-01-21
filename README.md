@@ -8,7 +8,7 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caaiopereira&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
-
+<br>
 <img align="right" alt="Coding" width="390" src="https://github.com/caaiopereira/esportes-json/blob/main/coding%203.gif"/>
 
 <h3 align="left">Redes:</h3>

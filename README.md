@@ -9,7 +9,7 @@
 </div>
 
 
-<img align="right" alt="Coding" width="380" src="https://media1.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47a1rfzmdb7alurwi2wwu07arxvxifx1t4tjczhi2l&rid=giphy.gif"/>
+<img align="right" alt="Coding" width="390" src="https://github.com/caaiopereira/esportes-json/blob/main/coding.gif"/>
 
 <h3 align="left">Redes:</h3>
 <p align="left">

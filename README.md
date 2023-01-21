@@ -9,7 +9,7 @@
 </div>
 
 
-<img align="right" alt="Coding" width="380" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b2eea2231c4b03b514db5bf69d05531b03736099&rid=giphy.gif"/>
+<img align="right" alt="Coding" width="380" src="https://media1.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47a1rfzmdb7alurwi2wwu07arxvxifx1t4tjczhi2l&rid=giphy.gif"/>
 
 <h3 align="left">Redes:</h3>
 <p align="left">

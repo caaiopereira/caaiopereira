@@ -17,7 +17,7 @@
 <a href="https://twitter.com/kingscaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kingscaio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/caio-pereira-oliveira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio-pereira-oliveira/" height="30" width="40" /></a>
 <a href="https://instagram.com/kingscaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kingscaio" height="30" width="40" /></a>
- <a href="mailto: caaiopereira9@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/gmail.png" alt="Caio Pereira" height="35" width="40" /></a>
+ <a href="mailto: caaiopereira9@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/gmail.png" alt="Caio Pereira" height="35" width="40"/></a>
  <a href="mailto: caioflu_9@hotmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/512/microsoft-outlook-2019--v2.png" alt="Caio Pereira" height="40" width="40" /></a>
 </p>
 

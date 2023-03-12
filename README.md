@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Meu nome é Caio Pereira</h1 >
+<h1 align="center">Olá 👋, Meu nome é Caio Pereira</h1>
 <h3 align="center">Atualmente estudando Desenvolvimento Web e Técnico em Informática</h3> 
 
 

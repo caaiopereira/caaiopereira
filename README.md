@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Meu nome é Caio Pereira</h1>
 <h3 align="center">Atualmente estudando Desenvolvimento Web e Técnico em Informática</h3> 
 
- 
+  
 <div align="center">
   <a href="https://github.com/caaiopereira">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=caaiopereira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />

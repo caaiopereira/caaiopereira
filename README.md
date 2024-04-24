@@ -2,7 +2,7 @@
 <p align="left">My name is Caio Pereira currently a cadet (Software Engineering Student)</p>
 
   ✨ Creating bugs since 2022<br>
-  📚 I'm currently studying Software Engineering at [@42Rio](https://42.rio/)<br>
+  📚 I'm currently studying Information Systems and Software Engineering at [@42Rio](https://42.rio/)<br>
   🎯 Objectives: First Internship/Work in the Programming Area<br>
   🧠 Learning C<br>
   📫 Contact me caaiopereira9@gmail.com<br>

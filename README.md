@@ -4,7 +4,7 @@
   ✨ Creating bugs since 2022<br>
   📚 I am currently studying Information Systems at [@UNISUAM](https://www.unisuam.edu.br/#) and Software Engineering at [@42Rio](https://42.rio/)<br>
   🎯 Objectives: First Internship/Work in the Programming Area<br>
-  🧠 Learning C<br>
+  🧠 Learning C, Java<br>
   📫 Contact me caaiopereira9@gmail.com<br>
   🕴  I'm also on [Linkedin](https://br.linkedin.com/in/caio-pereira-oliveira)</p>
 

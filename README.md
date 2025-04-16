@@ -1,10 +1,9 @@
 <h2 align="left">About me</h2>
-<p align="left">My name is Caio Pereira currently a cadet (Software Engineering Student)</p>
+<p align="left">My name is Caio Pereira </p>
 
   ✨ Creating bugs since 2022<br>
-  📚 I am currently studying Information Systems at [@UNISUAM](https://www.unisuam.edu.br/#) and Software Engineering at [@42Rio](https://42.rio/)<br>
-  🎯 Objectives: First Internship/Work in the Programming Area<br>
-  🧠 Learning Java<br>
+  📚 I am currently studying Information Systems at [@UNISUAM](https://www.unisuam.edu.br/#)<br>
+  🎯 Objectives: First Internship/Work in the Programming Area or TI<br>
   📫 Contact me caaiopereira9@gmail.com<br>
   🕴  I'm also on [Linkedin](https://br.linkedin.com/in/caio-pereira-oliveira)</p>
 
